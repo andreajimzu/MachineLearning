@@ -1,2 +1,2 @@
-Esta es la entrega del lab02.
+Esta es la entrega del lab2.
 
